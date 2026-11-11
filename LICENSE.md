@@ -1,26 +1,3 @@
-# CC BY 4.0 — Attribution 4.0 International
-
-Copyright (c) 2026 Justin (justinchang9562).
-
-除另有声明的第三方材料外，本仓库原创文档与 Prompt 模板采用 **Creative Commons Attribution 4.0 International（CC BY 4.0，知识共享署名 4.0 国际）** 许可。
-
-- [许可摘要](https://creativecommons.org/licenses/by/4.0/)
-- [官方完整条款](https://creativecommons.org/licenses/by/4.0/legalcode)
-- [下附英文原文来源](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
-
-允许分享和改编，包括商业用途；须适当署名、保留适用声明、提供许可链接并说明修改。不得暗示原作者背书，也不得施加妨碍他人行使许可权利的额外限制。具体权利与条件以完整条款为准。
-
-署名可使用以下格式，并补充实际来源位置与修改说明：
-
-> Modular-Dev-Quality-SOP — Justin（justinchang9562），CC BY 4.0。来源：[实际取得本作品的位置]；修改：[说明修改，或注明未修改]。
-
-第三方资料、名称与标识不因出现在本仓库而获得额外授权；它们按各自的权利声明处理。本作品按许可中的免责条款提供，不保证特定项目的质量或结果。
-
-## 完整许可原文
-
-以下为官方英文纯文本条款，正文未作改写。
-
-```text
 Attribution 4.0 International
 
 =======================================================================
@@ -56,7 +33,7 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes other CC-
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
-    wiki.creativecommons.org/Considerations_for_licensors
+     wiki.creativecommons.org/Considerations_for_licensors
 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
@@ -73,7 +50,7 @@ exhaustive, and do not form part of our licenses.
      Although not required by our licenses, you are encouraged to
      respect those requests where reasonable. More considerations
      for the public:
-    wiki.creativecommons.org/Considerations_for_licensees
+     wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
@@ -398,22 +375,21 @@ Section 8 -- Interpretation.
 
 =======================================================================
 
-Creative Commons is not a party to its public
-licenses. Notwithstanding, Creative Commons may elect to apply one of
-its public licenses to material it publishes and in those instances
-will be considered the “Licensor.” The text of the Creative Commons
-public licenses is dedicated to the public domain under the CC0 Public
-Domain Dedication. Except for the limited purpose of indicating that
-material is shared under a Creative Commons public license or as
-otherwise permitted by the Creative Commons policies published at
+Creative Commons is not a party to its public licenses.
+Notwithstanding, Creative Commons may elect to apply one of its public
+licenses to material it publishes and in those instances will be
+considered the “Licensor.” The text of the Creative Commons public
+licenses is dedicated to the public domain under the CC0 Public Domain
+Dedication. Except for the limited purpose of indicating that material
+is shared under a Creative Commons public license or as otherwise
+permitted by the Creative Commons policies published at
 creativecommons.org/policies, Creative Commons does not authorize the
 use of the trademark "Creative Commons" or any other trademark or logo
 of Creative Commons without its prior written consent including,
 without limitation, in connection with any unauthorized modifications
 to any of its public licenses or any other arrangements,
 understandings, or agreements concerning use of licensed material. For
-the avoidance of doubt, this paragraph does not form part of the
-public licenses.
+the avoidance of doubt, this paragraph does not form part of the public
+licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-```

@@ -106,4 +106,6 @@ industrial-engineering lean-production sop quality-control modular-design ai-wor
 
 工作流设计与原始说明：**Justin（justinchang9562）**。文档经 AI 辅助整理；AI 输出仍须由使用者核验。
 
+Copyright © 2026 Justin（justinchang9562）。
+
 本仓库原创文档与 Prompt 模板采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)：允许分享和改编，包括商业用途；须适当署名、提供许可链接并说明修改，不得暗示原作者背书。完整条款见 [LICENSE.md](LICENSE.md)。外部资料与第三方名称的权利按各自声明处理。
